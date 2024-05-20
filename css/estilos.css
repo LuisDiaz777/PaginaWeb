@@ -1,0 +1,65 @@
+
+body {background:#E1F0EB;}
+
+h1 {
+color:blue;}
+
+
+h2 {color:blue;}
+
+ p {color: blak;}
+ b {color:blue;}
+ 
+ul{ color: blak;}
+
+div{
+height:300px;
+width:300px;
+background:#0BE7E0;
+margin;100px  50px;
+padding:70px;
+border:10px solid #000 ;
+}
+
+
+
+
+h1{
+font-size:50px;
+
+}
+
+
+
+img{
+height:400px;
+width:400px;
+background:#fff;
+margin;100px  50px;
+padding:10px;
+border:10px solid #000 ;
+}
+
+p{
+font-family: "arial";
+font-size:18px;
+color:blak;
+font-weight: bold;
+text-align:justified;
+}
+
+ul{
+font-family: "arial";
+font-size:18px;
+color:blak;
+font-weight: bold;
+text-align:justified;
+}
+
+
+
+
+
+
+
+
